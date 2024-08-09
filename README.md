@@ -10,10 +10,9 @@ Este proyecto es un clon de la página de Tesla, creado como un MVP para mostrar
   - **Tecnologías**: React, Tailwind CSS, Redux, Framer Motion.
   - **Funcionalidad**:
     - Interfaz de usuario del clon de Tesla.
-    - Menú funcional que permite navegar entre las páginas de cada modelo.
-    - Sección "Ayúdame a elegir" con recomendaciones basadas en IA.
+    - **Sección "Ayúdame a elegir" con recomendaciones basadas en IA.**
     - Funcionalidad de texto a voz (Speech to Text) que convierte el texto de cada recomendación en audio.
-    - **Generación de Perfiles**: Tres botones para generar perfiles profesionales, familiares o generales para usuarios que no saben por dónde empezar. Cada botón genera un perfil utilizando AI, que luego puede ser editado antes de enviar.
+    - Generación de Perfiles: Tres botones para generar perfiles profesionales, familiares o generales para usuarios que no saben por dónde empezar. Cada botón genera un perfil utilizando AI, que luego puede ser editado antes de enviar.
 
 - **API de Node.js**:
   - **Tecnologías**: Node.js, Express.js, Axios.
