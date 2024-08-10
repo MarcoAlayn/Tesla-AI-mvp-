@@ -1,6 +1,31 @@
 # Proyecto Clon de Tesla con Recomendaciones Basadas en IA
 
-Este proyecto es un clon de la página de Tesla, creado como un MVP para mostrar mis habilidades en desarrollo web y en la integración de tecnologías avanzadas como inteligencia artificial. La aplicación permite a los usuarios recibir recomendaciones de vehículos basadas en sus preferencias, así como interactuar con una funcionalidad de texto a voz para mejorar la accesibilidad.
+Este proyecto es una réplica personalizada de la página de Tesla, desarrollado como un Producto Mínimo Viable (MVP) para exhibir mis competencias en desarrollo web full stack y en la integración de tecnologías avanzadas, como la inteligencia artificial. La aplicación permite a los usuarios recibir recomendaciones personalizadas de vehículos basadas en sus preferencias y necesidades.
+
+### Aspectos Destacados:
+
+- **Innovación con IA**: Implementé un sistema de recomendaciones inteligentes que se adapta dinámicamente a las preferencias del usuario, aprovechando la API de OpenAI para ofrecer respuestas precisas y contextualizadas. La funcionalidad de texto a voz (TTS) añade un nivel adicional de accesibilidad, proporcionando una experiencia de usuario fluida y personalizada.
+
+- **Decisiones Arquitectónicas**: El proyecto está diseñado con una arquitectura modular y escalable, utilizando **React** para una interfaz de usuario interactiva y responsiva, **Node.js** para manejar la lógica de negocio y la comunicación con la API de OpenAI, y **.NET** para gestionar el acceso a datos críticos almacenados en **SQL Server**. Esta separación de responsabilidades asegura un mantenimiento eficiente y facilita futuras expansiones del proyecto.
+
+- **Enfoque en la Experiencia del Usuario**: Además de las recomendaciones personalizadas, el proyecto incluye un generador de perfiles automatizado que asiste a los usuarios que no saben cómo comenzar. Con solo un clic, el sistema genera un perfil profesional, familiar, o general, utilizando IA para proporcionar una base que el usuario puede editar antes de recibir una recomendación final.
+
+- **Despliegue en Azure**: Todo el proyecto está desplegado en **Azure**, lo que demuestra mi habilidad para trabajar con servicios en la nube y gestionar entornos de desarrollo, pruebas y producción. El uso de **Azure App Services** asegura la alta disponibilidad y escalabilidad del proyecto.
+
+Este proyecto no solo subraya mis habilidades técnicas, sino que también refleja mi capacidad para integrar soluciones innovadoras y prácticas en un entorno de desarrollo real. Es un ejemplo claro de mi enfoque en la creación de aplicaciones que no solo cumplen con los requisitos técnicos, sino que también mejoran significativamente la experiencia del usuario.
+
+
+## Capturas de Pantalla
+
+### Home Page
+![Home Page](assets/home_loop.gif)
+
+### Interfaz de Usuario
+![Model S screenshot](assets/model_s_screenshot.jpg)
+
+### Sección "Ayúdame a elegir"
+![Recomendaciones IA](assets/recommendation_screenshot.jpg)
+
 
 ## Descripción General del Proyecto
 
@@ -22,7 +47,7 @@ Este proyecto es un clon de la página de Tesla, creado como un MVP para mostrar
     - Endpoints para generar perfiles (profesional, familiar, general) basados en la entrada del usuario.
   
 - **API de .NET**:
-  - **Tecnologías**: .NET Core.
+  - **Tecnologías**: .NET
   - **Funcionalidad**:
     - Endpoint que proporciona datos sobre las especificaciones de los vehículos.
     - Acceso a la base de datos SQL Server para obtener información detallada sobre los modelos.
@@ -33,7 +58,7 @@ Este proyecto es un clon de la página de Tesla, creado como un MVP para mostrar
     - Los datos son accesibles a través de la API de .NET para ser presentados en el frontend.
 
 ### Arquitectura del Proyecto
-![alt 'architecture'](assets/architecture.png)
+![architecture](assets/architecture.png)
 
 - **Despliegue**:
   - La aplicación está desplegada en Azure, utilizando App Services para las APIs y la base de datos, y una Static Web App para el frontend.
