@@ -18,13 +18,13 @@ Este proyecto no solo subraya mis habilidades técnicas, sino que también refle
 ## Capturas de Pantalla
 
 ### Home Page
-![Home Page](assets/home_loop.gif)
+![Paint Selector screenshot](assets/paint_screenshot.jpg)
 
 ### Interfaz de Usuario
 ![Model S screenshot](assets/model_s_screenshot.jpg)
 
 ### Sección "Ayúdame a elegir"
-![Recomendaciones IA](assets/recommendation_screenshot.jpg)
+![Recomendaciones IA screenshot](assets/recommendation_screenshot.jpg)
 
 
 ## Descripción General del Proyecto
