@@ -1,6 +1,6 @@
-# Proyecto Clon de Tesla con Recomendaciones Basadas en IA
+# Mvp de Tesla con Recomendaciones Basadas en IA
 
-Este proyecto es una réplica personalizada de la página de Tesla, desarrollado como un Producto Mínimo Viable (MVP) para exhibir mis competencias en desarrollo web full stack y en la integración de tecnologías avanzadas, como la inteligencia artificial. La aplicación permite a los usuarios recibir recomendaciones personalizadas de vehículos basadas en sus preferencias y necesidades.
+Este proyecto esta basado en la página de Tesla, desarrollado como un Producto Mínimo Viable (MVP) para exhibir mis competencias en desarrollo web full stack y en la integración de tecnologías avanzadas, como la inteligencia artificial. La aplicación permite a los usuarios recibir recomendaciones personalizadas de vehículos basadas en sus preferencias y necesidades.
 
 ### Aspectos Destacados:
 
