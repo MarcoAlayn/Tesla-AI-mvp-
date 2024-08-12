@@ -1,31 +1,35 @@
-# Proyecto Clon de Tesla con Recomendaciones Basadas en IA
+# Mvp de Tesla con IA
 
-Este proyecto es una réplica personalizada de la página de Tesla, desarrollado como un Producto Mínimo Viable (MVP) para exhibir mis competencias en desarrollo web full stack y en la integración de tecnologías avanzadas, como la inteligencia artificial. La aplicación permite a los usuarios recibir recomendaciones personalizadas de vehículos basadas en sus preferencias y necesidades.
+En un análisis de la página oficial de Tesla, identifiqué una oportunidad de mejora en la sección "Ayúdame a Elegir", que utilizaba una lógica básica (if/else) para recomendar vehículos. Tomé la iniciativa de desarrollar una versión optimizada de esta sección, integrando inteligencia artificial para transformar la experiencia del usuario y proporcionar recomendaciones personalizadas de vehículos basadas en sus preferencias y necesidades.
 
-### Aspectos Destacados:
+Para llevar a cabo esta mejora, creé un clon de la página de Tesla, enfocándome en la integración de un sistema de recomendaciones inteligentes. Este sistema no solo asiste a los usuarios en la elección de su modelo ideal, sino que también realiza una labor de venta efectiva, concluyendo con un llamado a la acción para agendar una prueba de manejo. La integración con la API de OpenAI permite ofrecer respuestas precisas y contextualizadas, elevando la funcionalidad de la sección más allá de simples if/else o switch/case. La funcionalidad de texto a voz (TTS) añade un nivel adicional de accesibilidad, proporcionando una experiencia de usuario fluida y personalizada.
 
-- **Innovación con IA**: Implementé un sistema de recomendaciones inteligentes que se adapta dinámicamente a las preferencias del usuario, aprovechando la API de OpenAI para ofrecer respuestas precisas y contextualizadas. La funcionalidad de texto a voz (TTS) añade un nivel adicional de accesibilidad, proporcionando una experiencia de usuario fluida y personalizada.
-
-- **Decisiones Arquitectónicas**: El proyecto está diseñado con una arquitectura modular y escalable, utilizando **React** para una interfaz de usuario interactiva y responsiva, **Node.js** para manejar la lógica de negocio y la comunicación con la API de OpenAI, y **.NET** para gestionar el acceso a datos críticos almacenados en **SQL Server**. Esta separación de responsabilidades asegura un mantenimiento eficiente y facilita futuras expansiones del proyecto.
-
-- **Enfoque en la Experiencia del Usuario**: Además de las recomendaciones personalizadas, el proyecto incluye un generador de perfiles automatizado que asiste a los usuarios que no saben cómo comenzar. Con solo un clic, el sistema genera un perfil profesional, familiar, o general, utilizando IA para proporcionar una base que el usuario puede editar antes de recibir una recomendación final.
-
-- **Despliegue en Azure**: Todo el proyecto está desplegado en **Azure**, lo que demuestra mi habilidad para trabajar con servicios en la nube y gestionar entornos de desarrollo, pruebas y producción. El uso de **Azure App Services** asegura la alta disponibilidad y escalabilidad del proyecto.
+Aspectos Destacados:
+- **Innovación con IA:** Implementé un sistema de recomendaciones que se adapta dinámicamente a las preferencias del usuario, mejorando la experiencia y efectividad de la sección "Ayúdame a Elegir".
+- **Decisiones Arquitectónicas:** El proyecto está diseñado con una arquitectura modular y escalable, utilizando React para una interfaz interactiva, Node.js para la lógica de negocio y la comunicación con la API de OpenAI, y .NET para gestionar datos críticos en SQL Server. Esta estructura asegura un mantenimiento eficiente y facilita futuras expansiones.
+- **Enfoque en la Experiencia del Usuario:** Incluye un generador de perfiles automatizado que ayuda a los usuarios a crear perfiles profesionales, familiares o generales, utilizando IA para proporcionar una base que pueden editar antes de recibir una recomendación final.
+- **Despliegue en Azure:** El proyecto está desplegado en Azure, demostrando habilidades en servicios en la nube y gestión de entornos de desarrollo, pruebas y producción, asegurando alta disponibilidad y escalabilidad.
 
 Este proyecto no solo subraya mis habilidades técnicas, sino que también refleja mi capacidad para integrar soluciones innovadoras y prácticas en un entorno de desarrollo real. Es un ejemplo claro de mi enfoque en la creación de aplicaciones que no solo cumplen con los requisitos técnicos, sino que también mejoran significativamente la experiencia del usuario.
 
 
 ## Capturas de Pantalla
 
-### Interfaz de Usuario
-![Model S screenshot](assets/model_s_screenshot.jpg)
 
-### Sección "Ayúdame a elegir"
-![Recomendaciones IA screenshot](assets/recommendation_screenshot.jpg)
+### Sección "Ayúdame a elegir (Original Vs Mi Versión)"
+![Recomendaciones IA screenshot](assets/original_vs_my_version)
 
-### Paint Selector
-![Paint Selector screenshot](assets/paint_screenshot.jpg)
+### Comparación de Resultados (Original Vs Mi Versión)
+![Paint Selector screenshot](assets/comparison_results)
 
+### Segundo Slide
+![Paint Selector screenshot](assets/second_slide.jpg)
+
+### Tercer Slide
+![Paint Selector screenshot](assets/third_slide.jpg)
+
+### Call to Action
+![Model S screenshot](assets/call_to_action.jpg)
 
 ## Descripción General del Proyecto
 
