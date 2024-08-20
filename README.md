@@ -14,10 +14,10 @@ Aspectos Destacados:
 
 
 ### Sección "Ayúdame a elegir (Original Vs Mi Versión)"
-![Recomendaciones IA screenshot](assets/original_vs_my_version)
+![Recomendaciones IA screenshot](assets/original_vs_my_version.png)
 
 ### Comparación de Resultados (Original Vs Mi Versión)
-![Paint Selector screenshot](assets/comparison_results)
+![Paint Selector screenshot](assets/comparison_results.png)
 
 ### Segundo Slide
 ![Paint Selector screenshot](assets/second_slide.jpg)
