@@ -10,9 +10,6 @@ Aspectos Destacados:
 - **Enfoque en la Experiencia del Usuario:** Incluye un generador de perfiles automatizado que ayuda a los usuarios a crear perfiles profesionales, familiares o generales, utilizando IA para proporcionar una base que pueden editar antes de recibir una recomendación final.
 - **Despliegue en Azure:** El proyecto está desplegado en Azure, demostrando habilidades en servicios en la nube y gestión de entornos de desarrollo, pruebas y producción, asegurando alta disponibilidad y escalabilidad.
 
-Este proyecto no solo subraya mis habilidades técnicas, sino que también refleja mi capacidad para integrar soluciones innovadoras y prácticas en un entorno de desarrollo real. Es un ejemplo claro de mi enfoque en la creación de aplicaciones que no solo cumplen con los requisitos técnicos, sino que también mejoran significativamente la experiencia del usuario.
-
-
 ## Capturas de Pantalla
 
 
